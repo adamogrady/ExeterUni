@@ -1,3 +1,4 @@
 # ExeterUni
 Practice
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fadamogrady%2FExeterUni/Practice)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fadamogrady%2FExeterUni/Practice
